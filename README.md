@@ -1,4 +1,4 @@
-# adobedatasets
+# research-datasets
 
 ## AdobeIndoorNav Dataset
 
